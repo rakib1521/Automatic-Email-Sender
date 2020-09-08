@@ -18,7 +18,7 @@
 # Step Three
 ![less secure app](https://github.com/rakib1521/Automatic-Email-Sender/blob/master/image/three.PNG)
 ## You must allow less secure app access from your Gmail address.
-	[Turn on less secure app](https://myaccount.google.com/lesssecureapps)
+[Turn on less secure app](https://myaccount.google.com/lesssecureapps)
 
 ## Result
 
