@@ -1,9 +1,9 @@
 # Automatic-Email-Sender
 ## This application is created using python.
 * GUI: Tkinter 
-  documentation:
+[Tkinter Documentation](https://docs.python.org/3/library/tkinter.html)
 * Mail: SMTPLIB
-  documentation:
+[SMTPLIB Documentation](https://docs.python.org/3/library/smtplib.html)
 ## For sending an email Gmail server is used.
 
 # Feature :
